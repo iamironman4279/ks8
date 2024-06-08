@@ -1,1 +1,1 @@
-# ks8
+# jenkins-kubernetes-example
